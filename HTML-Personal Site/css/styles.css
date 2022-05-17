@@ -1,0 +1,25 @@
+  body  {background-color: #E9EFC0;}
+.headline {position: relative;
+left: 500px;}
+ p {
+   color: #019267;
+ }
+  hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #B4E197;
+    Border-width: 5px;
+    width: 5%;
+}
+
+  h1{
+    color: #83BD75;
+    font-family: 'Sacramento', cursive;
+  }
+  h2{color: #4E944F;
+  font-family: 'Montserrat', sans-serif;}
+
+.grahampicture{ text-align: center;
+  height: 300px;
+  width: 300px;
+}
